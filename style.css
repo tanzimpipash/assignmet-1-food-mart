@@ -1,0 +1,115 @@
+body{font-family:'Roboto', sans-serif;
+margin: 0;}
+
+.rmane{
+    color: orange;
+}
+.fstpara{
+    color: gray;
+}
+.fstsec{
+    display: flex;
+    
+}
+section h1{
+    font-size: 50px;
+}
+.fstdiv{
+    width: 80%;
+    margin: 5%;
+    
+}
+.topimg{
+    width: 50%;
+}
+.topang{
+    
+    background-image: linear-gradient(orange,rgb(255, 0, 0));
+    color: white;
+    padding: 10px 25px;
+    border-radius: 25px;
+   text-decoration: none;
+   
+    
+}
+
+
+.mdlsec{
+    background-image: url(images/middlebg.png);
+    display: flex;
+    margin-top: 80px;
+}
+.mdltopdiv{
+    width: 50%;
+}
+.mdllstdiv{
+    width: 40%;
+    margin: 20px;
+    color: gray;
+    margin-top: 80px;
+}
+#mdllink{
+    background-image: linear-gradient(orange,red);
+    padding: 10PX 25PX;
+    text-decoration: none;
+    border-radius: 25px;
+    color: white;
+    
+
+}
+p{
+    text-align: justify;
+    color: gray;
+}
+#lsth{
+    text-align: center;
+    color: gray;
+    margin-top: 50px;
+}
+.recp{text-align: center;
+    color: gray;
+}
+.recsec{
+    display: flex;
+}
+
+
+
+.lstcls{
+    box-shadow: 10px 15px 10px rgb(228, 225, 225);
+    margin: 15px;
+    border-radius: 20px;
+    padding: 20px;
+}
+.lstimg{
+    width: 400px;
+    height:380px;
+    margin: 15px;
+    border-radius: 20px;
+}
+
+.fsec{
+    display: flex;
+    box-shadow: 10px 10px 20px grey;
+    margin: 50px;
+    text-align: center;
+    border-radius: 10px;
+}
+.view{
+    margin: 10px 100px;
+ padding-right: 50px;
+ padding-left: 50px;
+
+}
+#ft{
+    color: orange;
+}
+footer{
+    color: grey;
+    background-color: black;
+    text-align: center; 
+    padding: 20px 20px 80px 20px;
+}
+footer p{
+    text-align: center;
+}
